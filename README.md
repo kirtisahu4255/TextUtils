@@ -1,6 +1,6 @@
 # TextUtils 
 
-![TextUtils](./assets/textutils.png)
+![TextUtils](./1.png)
 
 TextUtils is a dynamic website designed for text manipulation, built using React.js, HTML, and CSS. It is optimized for editing text up to 300 words at a time, providing an enhanced user experience through intuitive text manipulation features.
 
